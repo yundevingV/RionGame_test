@@ -1,6 +1,8 @@
 var canvas = document.getElementById("myCanvas");
 var ctx = canvas.getContext("2d");
 
+
+// 처음으로 깃해본당!
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
 
