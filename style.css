@@ -1,0 +1,16 @@
+*{
+    overflow-x: hidden;
+    overflow-y: hidden;
+    margin: 0 auto;
+    padding: 0px;
+}
+.field{
+    margin: 0 auto;
+    background-image: url("https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_960_720.jpg");
+    width: 960px;
+    height: 800px;
+}
+body{
+    background-color: black;
+
+}
